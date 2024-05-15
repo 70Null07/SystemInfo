@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SystemInfo.MainWindow">
+    <Position X="8.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAA4AAACACAAAACAAAAAQQgAAACAAAgAAgAAAAAEE=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SystemInfo.Logger">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemInfo.PluginLoadContext">
+    <Position X="12.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PluginLoadContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
